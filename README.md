@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About me
 
-* 🎓 Second year student from Russia
+* 🎓 Second year student
 * 🧐 Studying new technologies and developing web and mobile application
 * 🔍 Learn more about backend development and artificial intelligence
 * ⌛ I am fond of sports, philosophy and psychology, in free time
