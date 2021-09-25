@@ -15,6 +15,8 @@
 - **DB**: MongoDB (basic), PostgreSQL (basic), MySQL (basic)
 - ⚙: Git, GitHub
 
+<br/>
+
 <a href="https://github.com/bndroll">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bndroll&langs_count=10&theme=tokyonight&layout=compact"  alt="most used languages"/>
 </a>
