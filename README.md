@@ -24,4 +24,4 @@
 ### 🤝 Connect with Me
 
 * <a href="https://t.me/bounderoll">Telegram</a>
-* <a href="mailtro:bounderoll.23@gmail.com">Gmail</a>
+* <a href="mailto:bounderoll.23@gmail.com">Gmail</a>
