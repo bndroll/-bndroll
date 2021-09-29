@@ -5,7 +5,7 @@
 * 🎓 Second year student
 * 🧐 Studying new technologies and developing web and mobile application
 * 🔍 Learn more about backend development and artificial intelligence
-* ⌛ I am fond of sports, philosophy and psychology, in free time
+* ⌛ Fond of sports, philosophy and psychology, in free time
 
 ### 🛠 Technical skills
 
