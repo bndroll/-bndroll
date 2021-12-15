@@ -9,10 +9,10 @@
 
 ### 🛠 Technical skills
 
-- **FrontEnd**: HTML5, CSS3, SCSS, Bootstrap, Material UI, JavaScript ES6+, TypeScript, React, Redux, NextJS
-- **BackEnd**: NodeJS, Express (basic), NestJS
+- **FrontEnd**: HTML5, CSS3, SCSS, Material UI, JavaScript ES6+, TypeScript, React, Redux, NextJS
+- **BackEnd**: NodeJS, Express, NestJS
 - **Mobile**: React Native (basic), Flutter (basic)
-- **DB**: MongoDB (basic), PostgreSQL (basic), MySQL (basic)
+- **DB**: MongoDB, PostgreSQL (basic), MySQL
 - ⚙: Git, GitHub
 
 <br/>
