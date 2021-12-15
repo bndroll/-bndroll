@@ -2,10 +2,10 @@
 
 ### 👨‍💻 About me
 
-* 🎓 Second year student
-* 🧐 Studying new technologies and developing web and mobile application
-* 🔍 Learn more about backend development and artificial intelligence
-* ⌛ Fond of sports, philosophy and psychology, in free time
+* Second year student
+* Studying new technologies and developing web and mobile application
+* Learn more about backend development and artificial intelligence
+* Fond of sports, philosophy and psychology, in free time
 
 ### 🛠 Technical skills
 
