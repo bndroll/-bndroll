@@ -1,11 +1,6 @@
 ## Hello there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 
-### 👨‍💻 About me
-
-* Second year student
-* Studying new technologies and developing web and mobile application
-* Learn more about backend development and artificial intelligence
-* Fond of sports, philosophy and psychology, in free time
+### Full-Stack Software Engineer
 
 ### 🛠 Technical skills
 
