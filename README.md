@@ -8,7 +8,8 @@
 - **BackEnd**: NodeJS, Express, NestJS, Go
 - **Mobile**: React Native (basic), Flutter (basic)
 - **DB**: MongoDB, PostgreSQL (basic), MySQL
-- ⚙: Git, GitHub, GitLab, AWS
+- **Cloud**: AWS
+- ⚙: Git, GitHub, GitLab
 
 <br/>
 
