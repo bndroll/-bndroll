@@ -5,7 +5,7 @@
 ### 🛠 Technical skills
 
 - **FrontEnd**: Material UI, TypeScript, React, Redux, NextJS, Ember
-- **BackEnd**: NodeJS, Express, NestJS, Go, Java
+- **BackEnd**: NodeJS, Express, NestJS, Go, Java, Spring Boot
 - **Mobile**: React Native (basic), Flutter (basic)
 - **DB**: PostgreSQL, MongoDB, MySQL
 - **Cloud**: AWS
