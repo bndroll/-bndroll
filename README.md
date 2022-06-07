@@ -1,13 +1,13 @@
-## Hello there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
+## Hello there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px">
 
 ### Full-Stack Software Engineer
 
 ### 🛠 Technical skills
 
 - **FrontEnd**: Material UI, TypeScript, React, Redux, NextJS, Ember
-- **BackEnd**: NodeJS, Express, NestJS, Go
+- **BackEnd**: NodeJS, Express, NestJS, Go, Java
 - **Mobile**: React Native (basic), Flutter (basic)
-- **DB**: MongoDB, PostgreSQL (basic), MySQL
+- **DB**: PostgreSQL, MongoDB, MySQL
 - **Cloud**: AWS
 - ⚙: Git, GitHub, GitLab
 
