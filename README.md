@@ -7,9 +7,8 @@
 - **FrontEnd**: Material UI, TypeScript, React, Redux, NextJS, Ember, Vue
 - **BackEnd**: NodeJS, Express, NestJS, Go, Java, Spring Boot
 - **Mobile**: React Native (basic), Flutter (basic)
-- **DB**: PostgreSQL, MongoDB, MySQL
-- **Cloud**: AWS
-- ⚙: Git, GitHub, GitLab, RabbitMQ, Nx
+- **DB**: PostgreSQL, MongoDB, MySQL, Redis
+- ⚙: Git, GitHub, GitLab, RabbitMQ, Nx, Docker, Ansible
 
 <br/>
 
